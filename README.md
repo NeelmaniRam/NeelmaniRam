@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Full Stack development and also focussed on strengthening my DSA skills**
 
-- 🌱 I’m currently learning **Web development , MEARN stack to**
+- 🌱 I’m currently learning **Web development , MERN stack to**
 
 - 👯 I’m looking to collaborate on **projects and research work related to my domain like AI ML,DL or NLP**
 
-- 🤝 I’m looking for help with **MEARN stack and Data Structures and Algorithms**
+- 🤝 I’m looking for help with **MERN stack and Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/neelmanisportfolio/home](https://sites.google.com/view/neelmanisportfolio/home)
 
