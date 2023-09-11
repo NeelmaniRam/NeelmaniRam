@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)](https://neelmaniram.io)
 <h1 align="center">Hi 👋, I'm Neelmani</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" height="400" width="400" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img align="right" alt="Coding" height="400" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelmaniram&label=Profile%20views&color=0e75b6&style=flat" alt="neelmaniram" /> </p>
 
