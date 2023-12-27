@@ -1,5 +1,5 @@
 [![MasterHead](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)](https://neelmaniram.io)
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="MasterHead" width="300" height="200">
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="MasterHead" width="400" height="400">
 
 <h1 align="center">Hi 👋, I'm Neelmani</h1>
 <h3 align="center">A passionate coder from India</h3>
