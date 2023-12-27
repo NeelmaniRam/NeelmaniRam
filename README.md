@@ -1,4 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)](https://neelmaniram.io)
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="MasterHead" width="300" height="200">
+
 <h1 align="center">Hi 👋, I'm Neelmani</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" height="400" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
