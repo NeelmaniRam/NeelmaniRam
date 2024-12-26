@@ -1,15 +1,17 @@
+<!-- MasterHead Section -->
 [![MasterHead](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)](https://neelmaniram.io)
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="MasterHead" width="400" height="400">
+
+<!-- Introducing a different image here -->
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Coding" align="right" width="400" height="400">
 
 <h1 align="center">Hi 👋, I'm Neelmani</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" height="400" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
+<!-- Profile views and social trophies -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelmaniram&label=Profile%20views&base=18988&color=0e75b6&style=flat" alt="neelmaniram" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelmaniram" alt="neelmaniram" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/neelmani_rk" target="blank"><img src="https://img.shields.io/twitter/follow/neelmani_rk?logo=twitter&style=for-the-badge" alt="neelmani_rk" /></a> </p>
+
 
 - 🔭 I’m currently working on **Full Stack development and also focussed on strengthening my DSA skills**
 
