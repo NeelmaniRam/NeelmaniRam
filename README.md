@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **rknilmani@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/am2XTF2K3](https://resume.io/r/am2XTF2K3)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ztm5V9-qSvb6hFMfrbt-v4qakRrSL-mH/view?usp=sharing)
 
 - ⚡ Fun facts **Passionate to learn and implement my skills**
 
