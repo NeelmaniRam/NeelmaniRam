@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **MERN stack and Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/neelmanisportfolio/home](https://sites.google.com/view/neelmanisportfolio/home)
+- 👨‍💻 All of my projects are available at [Portfolio](https://neelmaniram.github.io/Portfolio/)
 
 - 🔥 Technical skills [Data analysis, Technical Writing, Research, AI and ML implementation using Python](Data analysis, Technical Writing, Research, AI and ML implementation using Python)
 
